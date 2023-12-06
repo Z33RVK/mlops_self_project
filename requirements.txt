@@ -1,0 +1,15 @@
+
+-Data Acquisition
+
+-Data Preprocessing
+
+-Model Training
+
+-Deployment
+
+-Concept Drift Monitoring
+
+-Documentation and Presentation
+
+-Tool and Techonologies
+
